@@ -13,12 +13,15 @@
 <p> 
   This slider plugin is <tts></tts>.
 </p>
+
+<p> 
+  This slider plugin is also <span id="textTimeSlider2"></span>.
+</p>
  
 <script src="textTimeSlider.js"></script>
 <script>
-  var words = ["awesome", "superb", "aight"];
-  var times = [2000, 4000, 500];
   $( "tts" ).textTimeSlider(["awesome", "superb", "aight"], [2000, 4000, 500]);
+  $( "#textTimeSlider2").textTimeSlider(["excellent", "savage", "hip"], [2000, 2000, 2000], false);
 </script>
  
 </body>

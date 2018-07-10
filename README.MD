@@ -23,6 +23,7 @@ Creates a basic fade out/in slideshow of specified messages with specified delay
 
 - `text` is an array of texts, and 
 - `time` is an array of times (in ms)
+- `loop` (optional) default is true. Use false if you want to trigger each loop by manually calling .textTimeSlider()
 
 ```
 $( "#textTimeSliderName" ).textTimeSlider(["awesome", "superb", "aight"], [2000, 4000, 500]);
