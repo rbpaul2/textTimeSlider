@@ -1,6 +1,6 @@
 # What It Do
 
-Creates a basic fade out/in slideshow of specified messages with specified delays for each slide. Useful for landing pages and marketing sites where you want to cycle between a set of words or phrases with varied timings. For example, on my portfolio, I cycle between words displayed over a video background, I needed specific timings for each word such that they match up with the video on loop. 
+Creates a basic fade out/in slideshow of specified messages with specified delays for each slide. Useful for landing pages and marketing sites where you want to cycle between a set of words or phrases with varied timings. For example, on http://rohanpaul.com/, I cycle between words displayed over a video background, I needed specific timings for each word such that they match up with the video on loop. 
 
 
 # Basic Usage 
